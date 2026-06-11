@@ -8,14 +8,10 @@ Repository for our e-commerce project
 .
 ├── airflow/
 ├── clickhouse/
-├── docker/
-│   └── README.md
-├── docs/
 ├── kafka/
 ├── mongodb/
 ├── postgres/
 ├── scripts/
-├── Makefile
 ├── docker-compose.yaml
 ├── README.md
 └── LICENSE
